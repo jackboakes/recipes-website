@@ -1,2 +1,5 @@
-# recipes-website
-A website that displays recipes
+# Recipes Website
+## Description
+A website that displays recipes  
+## Why
+To practice my HTML skills
